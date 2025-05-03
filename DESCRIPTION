@@ -14,8 +14,3 @@ Depends: RNetCDF
 License: GPL (>= 3)
 URL: https://cirrus.ucsd.edu/~pierce/ncdf/
 NeedsCompilation: yes
-Packaged: 2025-03-25 20:16:31 UTC; pierce
-Author: David Pierce [aut, cre] (<https://orcid.org/0000-0002-2453-9030>)
-Maintainer: David Pierce <dpierce@ucsd.edu>
-Repository: CRAN
-Date/Publication: 2025-03-25 21:30:02 UTC
