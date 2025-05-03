@@ -1,0 +1,6 @@
+.*\.yml
+^.*\.Rproj$
+^\.Rproj\.user$
+^windows$
+^inst/share$
+^\.github$
